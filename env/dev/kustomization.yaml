@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/ravindrakumarks/demo-app
-  newTag: latest
+  newTag: 51e0df39fb11ec606ab391150c18200c155147ad
