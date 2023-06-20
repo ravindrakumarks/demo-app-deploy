@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/ravindrakumarks/demo-app
+  newTag: 504c6a847725ac439009b9cf85648693b989c2ff
